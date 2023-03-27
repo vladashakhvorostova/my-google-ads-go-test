@@ -1,6 +1,6 @@
 # google-ads-go
 
-| Google Ads API version 	| [`v11.0`](https://developers.google.com/google-ads/api/docs/release-notes#v11) |
+| Google Ads API version 	| [`v12.0`](https://developers.google.com/google-ads/api/docs/release-notes#v12) |
 |-|:-:|
 | Build | [![CircleCI](https://circleci.com/gh/kritzware/google-ads-go.svg?style=shield)](https://circleci.com/gh/kritzware/google-ads-go) |
 | Release | ![Release](https://img.shields.io/github/release/kritzware/google-ads-go.svg) |
